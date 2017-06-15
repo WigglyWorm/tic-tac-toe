@@ -1,0 +1,88 @@
+body {
+  color: #f4f4f0;
+  background: url("http://all4desktop.com/data_images/original/4235142-background-powerpoint.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  margin: 30px auto;
+}
+.header {
+  margin: 2%;
+}
+p {
+  color:#f6f4f1;
+  font-family:'Love Ya Like A Sister', cursive;
+}
+
+#options {
+ color: #c4adc9;
+ float: right;
+ position: relative;
+  right: 10%;
+  top:10%;
+  border: solid 3px;
+  border-radius: 50%;
+  padding: 30px;
+}
+
+#option-x, #option-o {
+  width: 50px;
+  font-size: 30px;
+  background: transparent;
+  border: 1px solid;
+  margin: 10px;
+  outline:none;
+}
+
+#option-x {
+  color: #ed7777;
+  font-family:'Love Ya Like A Sister', cursive;
+  border: none;
+}
+#option-o {
+  color:#f5f9ad;
+  font-family:'Love Ya Like A Sister', cursive;
+  border: none;
+}
+.x {
+   color: #ed7777;
+}
+.o {
+  color:#f5f9ad;
+}
+h1 {
+  font-family: 'Fredericka the Great', cursive;
+  font-size: 45px;
+	text-align: center;
+  margin: 40px;
+}
+table {
+	margin: auto;
+  position:relative;
+}
+
+td {
+	width: 120px;
+	height: 120px;
+}
+.vertical {
+	border-left: 9px solid #f4f4f0;
+	border-right: 9px solid #f4f4f0;
+}
+
+.horizontal {
+	border-top: 9px solid #f4f4f0;
+	border-bottom: 9px solid #f4f4f0;
+}
+#reset {
+  font-family: 'Fredericka the Great', cursive;
+  left: ;
+  position: relative;
+  display: block;
+  text-align: center;
+  margin: 10px auto;
+  background:  transparent;
+  outline: none;
+  font-size: 30px;
+  color: #c4adc9;
+  border: 2px #f4f4f0;
+}
